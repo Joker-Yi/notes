@@ -15,7 +15,7 @@
 * [HTML5 简介 + 标签](part03/20170612_01.md) （[备用连接](http://note.youdao.com/share/?id=59997b749c139857c4c17ffd1eb7f5e3&type=note#/)）
 * [CSS3 新增选择器](part03/20170613_02.md) （[备用连接](http://note.youdao.com/share/?id=0152d97a343e5f6697e48f45f134f124&type=note#/)）
 * [CSS3 背景属性和文本属性](part03/20170616_03.md) （[备用连接](http://note.youdao.com/share/?id=404b0cdd7d9c4222781e03eb9acbfd7e&type=note#/)）
-* [CSS3 动画特效](part03/20170617_04.md) （[备用连接](http://note.youdao.com/share/?id=1576bca21a103112f3e6a2d8ee1a4f99&type=note#/)）
+* [CSS3 动画特效](part03/20170617_04/20170617_04.md) （[备用连接](http://note.youdao.com/share/?id=1576bca21a103112f3e6a2d8ee1a4f99&type=note#/)）
 * [变换](part03/20170621_05/20170621_05.md)
 * [盒模型](part03/20170622_06.md)
 
