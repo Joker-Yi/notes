@@ -76,7 +76,6 @@
     + [w3schools](http://w3schools.bootcss.com/default.html)
     + [Flat UI](http://www.bootcss.com/p/flat-ui/)
         - [下载](https://github.com/designmodo/Flat-UI/archive/master.zip)
-
     + [React](https://react.bootcss.com/)
 * [Vue.js](https://cn.vuejs.org/)
     + [安装](https://cn.vuejs.org/v2/guide/installation.html) / [Github 获取方式](https://github.com/vuejs/vue)
@@ -87,7 +86,6 @@
     + [使用方法 en](http://lesscss.cn/usage/)
 * [Chart.js](http://www.chartjs.org/)
     + [文档](http://www.chartjs.org/docs/latest/)
-
 * [Recat]()
     + [入门教程](http://www.ruanyifeng.com/blog/2015/03/react.html)
     + [论坛](http://react-china.org/)
@@ -97,3 +95,16 @@
 ## 工具
 
 * [建模工具](http://www.oschina.net/project/tag/83/)
+
+---
+
+## Git 开源项目
+
+项目名|说明
+---:|:---
+[Lyicon（Github）](https://github.com/ijry/lyicon.git)|[字体图标](http://lyicon.lingyun.net/)
+[Angular](https://github.com/angular/angular.git)|Angular JS
+[UEditor](https://github.com/fex-team/ueditor.git)|在线文本编辑器（百度）
+[AliSQL](https://github.com/alibaba/AliSQL.git)|阿里数据库，扩展自 MySQL
+[china_area_mysql](https://github.com/kakuilan/china_area_mysql.git)|中国5级行政区数据库
+[Snipaste-Feedback](https://github.com/liulex/Snipaste-Feedback.git)|Snipaste 功能更强更好用的截图工具
