@@ -1,0 +1,79 @@
+@charset "utf-8";
+
+/* 旋转盒子面板 */
+.container {
+  position: relative;
+  width: 600px;
+  height: 600px;
+  border: 1px solid #ddd;
+  margin: 30px auto;
+  perspective: 800px;
+  box-shadow: 0 0 15px 3px #efefef;
+  transition: 5s;
+}
+/* 基本盒子样式 */
+.box {
+  position: absolute;
+  width: 80px;
+  height: 80px;
+  transition: 5s;
+  top: 260px;
+  left: 260px;
+  transform-style: preserve-3d;
+}
+/* 盒子面的样式 */
+.box li {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  opacity: .4;
+}
+
+/* 盒子每个面单独定义样式 */
+.box li.up { transform-origin: bottom; }
+.box li.below { transform-origin: top; }
+.box li.left { transform-origin: right; }
+.box li.right { transform-origin: left; }
+
+/* 大盒子样式 */
+.big-box {
+  width: 300px;
+  height: 300px;
+  top: 150px;
+  left: 150px;
+  transform-origin: center center -150px;
+}
+/* 大盒子 每个面的样式 */
+.big-box li {
+  line-height: 300px;
+  text-align: center;
+  border: 1px solid white;
+  transition: 5s;
+  background-color: black;
+  /*border-radius: 50%;*/
+}
+/* 盒子每个面单独定义样式 */
+.big-box li.after { transform: translateZ(-300px) rotateY(180deg); }
+.big-box li.up { transform: translateY(-300px) rotateX(90deg); }
+.big-box li.below { transform: translateY(300px) rotateX(-90deg); }
+.big-box li.left { transform: translateX(-300px) rotateY(-90deg); }
+.big-box li.right { transform: translateX(300px) rotateY(90deg); }
+
+/* 小盒子样式 */
+.small-box { transform-origin: center center -40px; }
+/* 盒子每个面单独定义样式 */
+.small-box li.before { background-color: red; }
+.small-box li.after { transform: translateZ(-80px) rotateY(180deg); background-color: green; }
+.small-box li.up { transform: translateY(-80px) rotateX(90deg); background-color: blue; }
+.small-box li.below { transform: translateY(80px) rotateX(-90deg); background-color: #ff0; }
+.small-box li.left { transform: translateX(-80px) rotateY(-90deg); background-color: #f0f; }
+.small-box li.right { transform: translateX(80px) rotateY(90deg); background-color: #0ff; }
+
+/* 旋转盒子 */
+/*.container:hover { transform: rotateZ(180deg); }*/
+/* 所有盒子的样式 */
+.container:hover .box { transform: rotateY(-180deg); }
+/* 大盒子顶部面的样式 */
+.container:hover .box.big-box .up { transform: translateY(-300px) rotateX(0); transform-origin: bottom; }
+/* 小盒子整体的样式 */
+.container:hover .box.small-box { transform: translateY(-300px) rotateY(-180deg) rotateX(-180deg) rotateZ(-180deg); }

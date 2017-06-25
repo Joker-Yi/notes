@@ -1,0 +1,13 @@
+* { margin: 0; padding: 0; }
+ul { list-style: none; }
+
+.wrap { width: 600px; height: 400px; box-shadow: 1px 1px 16px black; margin: 50px auto; padding-top: 200px; perspective: 800px; }
+.wrap .list { width: 200px; height: 200px; border: 1px solid #ccc; margin: auto; position: relative; font-size: 40px; line-height: 200px; text-align: center; transform-style: preserve-3d; transition: 1s; transform-origin: center center -100px; }
+.wrap .list li { width: 100%; height: 100%; background: red; position: absolute; opacity: 0.4; }
+.wrap .list li:nth-of-type(1) { background: #f3f; }
+.wrap .list li:nth-of-type(2) { background: #cff; transform: translateZ(-200px) rotateY(180deg); }
+.wrap .list li:nth-of-type(3) { top: -200px; background: blue; transform: rotateX(90deg); transform-origin: bottom; }
+.wrap .list li:nth-of-type(4) { top: 200px; background: pink; transform: rotateX(-90deg); transform-origin: top; }
+.wrap .list li:nth-of-type(5) { left: -200px; background: yellow; transform: rotateY(-90deg); transform-origin: right; }
+.wrap .list li:nth-of-type(6) { left: 200px; background: #f99; transform: rotateY(90deg); transform-origin: left; }
+.wrap:hover .list { transform: rotateY(180deg) rotateX(180deg); }
