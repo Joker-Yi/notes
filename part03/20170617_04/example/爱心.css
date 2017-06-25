@@ -1,0 +1,16 @@
+@charset "utf-8";
+
+* { margin: 0; padding: 0; }
+ul { list-style: none; }
+
+.wrap { position: relative; width: 300px; height: 300px; margin: 50px auto; transform: rotate(45deg); }
+.wrap li { position: absolute; width: 200px; height: 200px; background-color: red; animation: move 1s infinite alternate; }
+
+.wrap li.left { top: 100px; border-radius: 50%; }
+.wrap li.bot { top: 100px; left: 100px; }
+.wrap li.bot p { width: 150px; height: 150px; line-height: 150px; text-align: center; font-size: 20px; font-weight: bold; color: white; transform: rotate(-45deg); }
+.wrap li.right { left: 100px; right: 100px; border-radius: 50%; z-index: -1; }
+
+@keyframes move {
+  to { transform: scale(1.2); }
+}
