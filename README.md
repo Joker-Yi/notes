@@ -18,6 +18,7 @@
 * [CSS3 动画特效](part03/20170617_04/20170617_04.md) （[备用连接](http://note.youdao.com/share/?id=1576bca21a103112f3e6a2d8ee1a4f99&type=note#/)）
 * [变换](part03/20170621_05/20170621_05.md)
 * [弹性盒模型](part03/20170622_06/20170622_06.md)
+* [响应式布局](part03/20170625_08/20170625_08.md)
 
 #### 学习笔记
 
@@ -39,9 +40,9 @@
 
 ## 视频资源
 
-* [41期-木马---基础班视频（170428级）](http://pan.baidu.com/s/1nvjtzDJ) 密码：<font color=#528bff>bql2</font> :+1:
-* [42期-凌微---基础班视频（170503级）](http://pan.baidu.com/s/1eSP6aTO) 密码：<font color=#528bff>flqw</font>
-* [43期-千寻---基础班视频（170615级）](http://pan.baidu.com/s/1slz2IHB) 密码：<font color=#528bff>lzg0</font>
+* [41期-木马---基础班视频（170428级）](http://pan.baidu.com/s/1nvjtzDJ) 密码：bql2
+* [42期-凌微---基础班视频（170503级）](http://pan.baidu.com/s/1eSP6aTO) 密码：flqw
+* [43期-千寻---基础班视频（170615级）](http://pan.baidu.com/s/1slz2IHB) 密码：lzg0
 
 ---
 
@@ -49,16 +50,16 @@
 
 #### 技术网站或论坛
 
-* [Github Markdown](https://guides.github.com/features/mastering-markdown/) 语法学习 :+1:
+* [Github Markdown](https://guides.github.com/features/mastering-markdown/) 语法学习
 * [在 Github 上书写](https://help.github.com/categories/writing-on-github/)
-* Markdown 引用 [Emoji](http://emoji-cheat-sheet.com/) 图标 :stuck_out_tongue: （[备用连接](https://www.webpagefx.com/tools/emoji-cheat-sheet/)）
+* Markdown 引用 [Emoji](http://emoji-cheat-sheet.com/) 图标 （[备用连接](https://www.webpagefx.com/tools/emoji-cheat-sheet/)）
 * [萌码](http://www.mengma.com/) 在线练习代码
 * [CSS 动画](http://oli.jp/2010/css-animatable-properties/) 属性了解
 * [可以使用...支持HTML5，CSS3等的表格](http://caniuse.com/)
 * [Web 骇客](http://www.webhek.com)
-* [ProcessOn](https://www.processon.com/) 在线画图网站 :+1:
+* [ProcessOn](https://www.processon.com/) 在线画图网站
 * [在线工具](http://tool.oschina.net/)
-* [UIMaker](http://www.uimaker.com) UI 设计 :+1:
+* [UIMaker](http://www.uimaker.com) UI 设计
 
 #### 编码规范
 
