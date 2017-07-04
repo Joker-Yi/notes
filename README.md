@@ -38,57 +38,6 @@
 
 ---
 
-## 视频资源
-
-> **不分基础和实践**
-
-* [41期-木马---基础班视频（170428级）](http://pan.baidu.com/s/1nvjtzDJ) 密码：bql2
-* [42期-凌微---基础班视频（170503级）](http://pan.baidu.com/s/1eSP6aTO) 密码：flqw
-* [43期-千寻---基础班视频（170615级）](http://pan.baidu.com/s/1slz2IHB) 密码：lzg0
-* [第40期-千寻老师](http://pan.baidu.com/s/1c2GfjYo) 密码：pggx   
-* [第39期-踏浪老师](http://pan.baidu.com/s/1bC4pu2) 密码：w0gh
-* [第38期-凌薇老师](http://pan.baidu.com/s/1nv391eL) 密码：1799
-* [第37期-千寻老师](http://pan.baidu.com/s/1kVjt015) 密码：5wy8
-
-* [editplus软件使用教程](http://pan.baidu.com/s/1hrXpi40) 密码：fmqh
-* [html+css企业标准化代码规范](http://pan.baidu.com/s/1pLLMYRx) 密码：0h8b
-
-> **零基础知识块**
-
-* [第36期-p+老师](http://pan.baidu.com/s/1kVI7ONH) 密码：1g1o
-* [第35期-千寻老师](http://pan.baidu.com/s/1cBxc42) 密码：mx9k
-* [第34期-p+老师](http://pan.baidu.com/s/1o7UYePO) 密码：s7pz
-* [第33期-千寻老师](http://pan.baidu.com/s/1c2FsqXE) 密码：sdoz
-* [第32期-凌风老师](http://pan.baidu.com/s/1pKUTmA3) 密码：jmry
-* [第31期-千寻老师](http://pan.baidu.com/s/1o8PLkZS) 密码：uzga
-* [第30期-P+老师](http://pan.baidu.com/s/1i5LlFff) 密码：jivx
-* [往期零基础-清心老师](http://pan.baidu.com/s/1cpBPaY) 密码：nx6g
-* [浏览器兼容性-玄武老师](http://pan.baidu.com/s/1o7SmOXW) 密码：0jtj
-
-> **项目实战块**
-
-* [第36期实战-p+老师](http://pan.baidu.com/s/1o8lrIo6) 密码：p0sz
-* [第35期实战-千寻老师](http://pan.baidu.com/s/1mijYs7A) 密码：bksc
-* [第34期实战-p+老师](http://pan.baidu.com/s/1jHCPvGM) 密码：xin9
-* [第33期实战-千寻老师](http://pan.baidu.com/s/1hrCmdPq) 密码：b2j5
-* [唯品会实战-凌风老师](http://pan.baidu.com/s/1dEZrqHN) 密码：6kj8
-* [七丽女性实战-千寻老师](http://pan.baidu.com/s/1mifOclU) 密码：ae6x      
-* [天猫实战-千寻老师](http://pan.baidu.com/s/1jIsSirk) 密码：e14o
-* [美丽说实战-p+老师](http://pan.baidu.com/s/1mhSWRG0) 密码：okip
-* [旅游网站实战-清心老师](http://pan.baidu.com/s/1cgO4kY) 密码：ou2k
-* [太平洋时尚网-追梦老师](http://pan.baidu.com/s/1nv32CD7) 密码：9n9o
-
-> **cms动态网站**
-
-* [DedeCMs-螺丝刀网站---清心老师](http://pan.baidu.com/s/1qYrRIDQ) 密码：lpdw
-* [Discuz论坛-潭州论坛---无虑老师](http://pan.baidu.com/s/1pKJxTk3) 密码：t18k
-* [Ecshop-礼品商城---清心老师](http://pan.baidu.com/s/1jIHg0CI) 密码：lot9
-* [WordPress-瑞丽女性网---（清心老师+阿飞老师）](http://pan.baidu.com/s/1eRCUCi2) 密码：6l5g
-* [WordPress-湖南海外旅游网---清心老师](http://pan.baidu.com/s/1eREW2yA) 密码：ed4v
-* [DedeCMs-旅游网---清心老师](http://pan.baidu.com/s/1c2Oeq3I) 密码：5rh5
-
----
-
 ## 网站
 
 #### 技术网站或论坛
